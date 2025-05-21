@@ -7,4 +7,4 @@ We also include some generated outputs along with the captions used. Also, added
 
 Two instances of training were performed:
 - training on Bajirao Mastani movie.
-- - training on custom Rajinikanth dataset provided.
+- training on custom Rajinikanth dataset provided.
