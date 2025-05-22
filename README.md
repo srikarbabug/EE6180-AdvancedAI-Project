@@ -8,3 +8,5 @@ We also include some generated outputs along with the captions used (in a txt fi
 Two instances of training were performed:
 - Training on Bajirao Mastani movie.
 - Training on the custom Rajinikanth dataset provided.
+
+Report: [Link](https://drive.google.com/file/d/1oU-z8ARTqXkc_K4ENZuwj0AkAgt7dDSR/view?usp=sharing)
